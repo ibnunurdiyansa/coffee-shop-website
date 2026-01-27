@@ -4,6 +4,24 @@ Website **Kopi Kenangan Senja** adalah project website statis bertema coffee sho
 
 Project ini berfokus pada penerapan **HTML, CSS, JavaScript, Alpine.js**, serta pengelolaan interaksi UI seperti navbar, modal, shopping cart, dan form validation.
 
+🔗 Live Demo [(Live Demo)](https://ibnunurdiyansa.github.io/coffee-shop-website/)
+
+---
+
+## 📸 Screenshots
+
+### Homepage
+
+![Homepage](img/screenshoots/Homepage.png)
+
+### Menu Section
+
+![Menu](img/screenshoots/menu.png)
+
+### Shopping Cart
+
+![Cart](img/screenshoots/image.png)
+
 ---
 
 ## 📌 Tujuan Project
