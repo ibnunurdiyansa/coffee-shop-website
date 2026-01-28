@@ -84,11 +84,9 @@ Project ini berfokus pada penerapan **HTML, CSS, JavaScript, Alpine.js**, serta 
 ## ▶️ Cara Menjalankan Project
 
 1. Clone repository ini
-
-```bash
-git clone https://github.com/ibnunurdiyansa/coffee-shop-website.git
-```
-
+    ```bash
+    git clone https://github.com/ibnunurdiyansa/coffee-shop-website.git
+    ```
 2. Buka file index.html menggunakan browser
 3. Tidak memerlukan server atau database
 
